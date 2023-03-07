@@ -1,0 +1,10 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday attack_portscan 
+Flows targeted : Web_XSS 
+Number of Flows tested on : 1024
+accuracy on original data after training : 0.96625
+accuracy on new attack before training : 0.7425373134328358
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.9291044776119403
+best compression batch size : 16
+best compression learning rate : 0.001

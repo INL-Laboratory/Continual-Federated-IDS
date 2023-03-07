@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday Web_BruteForce 
+Flows targeted : attack_bot 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.9532908704883227
+accuracy on new attack before training : 0.48314606741573035
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.9191011235955057

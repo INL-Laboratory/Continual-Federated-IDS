@@ -1,0 +1,10 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday attack_portscan 
+Flows targeted : DOS_SlowHttpTest 
+Number of Flows tested on : 1024
+accuracy on original data after training : 0.97
+accuracy on new attack before training : 0.4975
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.62
+best compression batch size : 16
+best compression learning rate : 0.001

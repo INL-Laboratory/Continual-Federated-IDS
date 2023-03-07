@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday SSHPatator 
+Flows targeted : attack_portscan 
+Number of Flows tested on : 510
+accuracy on original data after training : 0.7566666666666667
+accuracy on new attack before training : 0.30333333333333334
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.24833333333333332

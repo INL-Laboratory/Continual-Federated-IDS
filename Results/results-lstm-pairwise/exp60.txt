@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_GoldenEye 
+Flows targeted : attack_bot 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.9933333333333333
+accuracy on new attack before training : 0.48314606741573035
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.7393258426966293

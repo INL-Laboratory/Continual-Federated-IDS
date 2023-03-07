@@ -1,0 +1,10 @@
+attack_bot
+DOS_SlowLoris
+DOS_SlowHttpTest
+SSHPatator
+attack_DDOS
+attack_portscan
+Web_BruteForce
+DOS_Hulk
+FTPPatator
+Web_XSS

@@ -1,0 +1,21 @@
+############################
+Attacks : 
+SSHPatator : 
+day : tuesday
+number of samples : 1000
+--------
+Web_BruteForce : 
+day : newthursday
+number of samples : 1000
+--------
+Web_XSS : 
+day : newthursday
+number of samples : 679
+############################
+Normals : 
+day : newwednesday
+number of samples : 2679
+############################
+Number of attack flows : 2679(50%)
+Number of normal flows : 2679(50%)
+Total number flows : 5358

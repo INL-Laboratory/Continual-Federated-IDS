@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_GoldenEye 
+Flows targeted : Web_BruteForce 
+Number of Flows tested on : 564
+accuracy on original data after training : 0.9766666666666667
+accuracy on new attack before training : 0.9087048832271762
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.9532908704883227

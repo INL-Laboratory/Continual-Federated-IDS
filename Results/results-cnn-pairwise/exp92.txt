@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday Web_BruteForce 
+Flows targeted : attack_portscan 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.9893617021276596
+accuracy on new attack before training : 0.328881469115192
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.996661101836394

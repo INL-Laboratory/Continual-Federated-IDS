@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday Web_BruteForce 
+Flows targeted : DOS_Hulk 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.8980891719745223
+accuracy on new attack before training : 0.31833333333333336
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.7216666666666667

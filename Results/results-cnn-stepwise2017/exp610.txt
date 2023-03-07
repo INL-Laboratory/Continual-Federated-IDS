@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_GoldenEye 
+Flows targeted : Web_XSS 
+Number of Flows tested on : 584
+accuracy on original data after training : 0.9783152627189324
+accuracy on new attack before training : 0.9313432835820895
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9402985074626866

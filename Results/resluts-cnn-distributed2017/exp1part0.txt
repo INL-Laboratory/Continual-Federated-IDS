@@ -1,0 +1,4 @@
+Initial Attack: attack_portscan
+accuracy on original data after training : 0.98
+accuracy on new attack before training : 0.49
+accuracy on new attack after training : 0.9720689655172414

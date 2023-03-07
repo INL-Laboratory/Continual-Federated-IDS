@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday FTPPatator 
+Flows targeted : DOS_GoldenEye 
+Number of Flows tested on : 524
+accuracy on original data after training : 0.944954128440367
+accuracy on new attack before training : 0.8580968280467446
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9682804674457429

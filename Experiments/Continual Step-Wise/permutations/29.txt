@@ -1,0 +1,10 @@
+DOS_GoldenEye
+Web_BruteForce
+Web_XSS
+DOS_Hulk
+attack_bot
+DOS_SlowLoris
+attack_portscan
+DOS_SlowHttpTest
+attack_DDOS
+SSHPatator

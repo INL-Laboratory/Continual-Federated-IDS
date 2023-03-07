@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday FTPPatator 
+Flows targeted : attack_portscan 
+Number of Flows tested on : 510
+accuracy on original data after training : 0.9724770642201835
+accuracy on new attack before training : 0.31886477462437396
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9732888146911519

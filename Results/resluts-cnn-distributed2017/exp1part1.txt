@@ -1,0 +1,4 @@
+Initial Attack: FTPPatator
+accuracy on original data after training : 0.9645714285714285
+accuracy on new attack before training : 0.49
+accuracy on new attack after training : 0.9504

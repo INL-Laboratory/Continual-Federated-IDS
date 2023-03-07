@@ -1,0 +1,4 @@
+Initial Attack: SSHPatator
+accuracy on original data after training : 0.9154285714285715
+accuracy on new attack before training : 0.5058181818181818
+accuracy on new attack after training : 0.916

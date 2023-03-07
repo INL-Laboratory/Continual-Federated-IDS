@@ -1,0 +1,4 @@
+Initial Attack: DOS_SlowHttpTest
+accuracy on original data after training : 0.9366666666666666
+accuracy on new attack before training : 0.5058181818181818
+accuracy on new attack after training : 0.9196551724137931

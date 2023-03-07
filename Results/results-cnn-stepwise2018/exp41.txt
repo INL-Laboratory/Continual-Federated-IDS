@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : Benign_Friday_02 Benign_Friday_16 Benign_Thursday_01 Benign_Thursday_15 Benign_Thursday_22 Benign_Wednesday_14 Benign_Tuesday_20 SSHPBruteForce 
+Flows targeted : DOS_SlowLoris 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.9949958298582152
+accuracy on new attack before training : 0.49937421777221525
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9912390488110138

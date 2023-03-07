@@ -1,0 +1,74 @@
+{
+    "Benign_Friday_02": {
+		"label": 4,
+		"path": "Friday-02/Benign/"
+	},
+    "Benign_Friday_16": {
+		"label": 4,
+		"path": "Friday-16/Benign/"
+	},
+    "Benign_Thursday_01": {
+		"label": 4,
+		"path": "Thursday-01/Benign/"
+	},
+  "Benign_Thursday_15": {
+		"label": 4,
+		"path": "Thursday-15/Benign/"
+	},
+  "Benign_Thursday_22": {
+		"label": 4,
+		"path": "Thursday-22/Benign/"
+	},
+  "Benign_Wednesday_14": {
+		"label": 4,
+		"path": "Wednesday-14/Benign/"
+	},
+  "Benign_Tuesday_20": {
+		"label": 4,
+		"path": "Tuesday-20/Benign/"
+	},
+	"attack_bot": {
+		"label": 4,
+		"path": "Friday-02/Bot/"
+	},
+	"DOS_SlowLoris": {
+		"label": 4,
+		"path": "Thursday-15/DoS attacks-Slowloris/"
+	},
+  "DDoS_LOiC": {
+		"label": 4,
+		"path": "Tuesday-20/DDoS attacks-LOIC-HTTP/"
+	},
+	"DOS_GoldenEye": {
+		"label": 4,
+		"path": "Thursday-15/DoS attacks-GoldenEye/"
+	},
+	"FTPBruteForce": {
+		"label": 4,
+		"path": "Wednesday-14/FTP-BruteForce/"
+	},
+	"SSHPBruteForce": {
+		"label": 4,
+		"path": "Wednesday-14/SSH-Bruteforce/"
+	},
+ "Infilteration": {
+		"label": 4,
+		"path": "Thursday-01//Infilteration/"
+	},
+	"Web_BruteForce": {
+		"label": 4,
+		"path": "Friday-23/Brute Force -Web/"
+	},
+	"Web_SQLInjection": {
+		"label": 4,
+		"path": "Friday-23/SQL Injection/"
+	},
+  "Web": {
+		"label": 4,
+		"path": "Friday-23/Web/"
+	},
+	"Web_XSS": {
+		"label": 4,
+		"path": "Friday-23/Brute Force -XSS/"
+	}
+}

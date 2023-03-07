@@ -1,0 +1,62 @@
+{
+	"vectorize_friday/benign": {
+		"label": 4,
+		"path": "vectorize_friday/benign/"
+	},
+	"attack_bot": {
+		"label": 4,
+		"path": "vectorize_friday/attack_bot/"
+	},
+	"attack_DDOS": {
+		"label": 4,
+		"path": "vectorize_friday/attack_DDOS/"
+	},
+	"attack_portscan": {
+		"label": 4,
+		"path": "vectorize_friday/attack_portscan/"
+	},
+	"Benign_Wednesday": {
+		"label": 4,
+		"path": "newwednesday/vectorize/Benign_Wednesday/"
+	},
+	"DOS_SlowHttpTest": {
+		"label": 4,
+		"path": "newwednesday/vectorize/DOS_SlowHttpTest/"
+	},
+	"DOS_SlowLoris": {
+		"label": 4,
+		"path": "newwednesday/vectorize/DOS_SlowLoris/"
+	},
+	"DOS_Hulk": {
+		"label": 4,
+		"path": "newwednesday/vectorize/DOS_Hulk/"
+	},
+	"DOS_GoldenEye": {
+		"label": 4,
+		"path": "newwednesday/vectorize/DOS_GoldenEye/"
+	},
+	"HeartBleed": {
+		"label": 4,
+		"path": "newwednesday/vectorize/HeartBleed/"
+	},
+	"FTPPatator": {
+		"label": 4,
+		"path": "tuesday/vectorize/FTPPatator/"
+	},
+	"SSHPatator": {
+		"label": 4,
+		"path": "tuesday/vectorize/SSHPatator/"
+	},
+	"Web_BruteForce": {
+		"label": 4,
+		"path": "newthursday/vectorize/Web_BruteForce/"
+	},
+	"Web_SQLInjection": {
+		"label": 4,
+		"path": "newthursday/vectorize/Web_SQLInjection/"
+	},
+	"Web_XSS": {
+		"label": 4,
+		"path": "newthursday/vectorize/Web_XSS/"
+	}
+}

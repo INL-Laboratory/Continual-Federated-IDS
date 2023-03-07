@@ -1,0 +1,4 @@
+Initial Attack: DOS_GoldenEye
+accuracy on original data after training : 0.94
+accuracy on new attack before training : 0.48654545454545456
+accuracy on new attack after training : 0.6503636363636364

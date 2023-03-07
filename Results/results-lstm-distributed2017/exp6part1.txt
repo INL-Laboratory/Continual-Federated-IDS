@@ -1,0 +1,4 @@
+Initial Attack: DOS_Hulk
+accuracy on original data after training : 0.9183333333333333
+accuracy on new attack before training : 0.6434545454545455
+accuracy on new attack after training : 0.9049090909090909

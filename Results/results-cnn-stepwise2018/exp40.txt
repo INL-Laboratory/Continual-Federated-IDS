@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : Benign_Friday_02 Benign_Friday_16 Benign_Thursday_01 Benign_Thursday_15 Benign_Thursday_22 Benign_Wednesday_14 Benign_Tuesday_20 SSHPBruteForce 
+Flows targeted : attack_bot 
+Number of Flows tested on : 512
+accuracy on original data after training : 1.0
+accuracy on new attack before training : 0.49937421777221525
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9974968710888611

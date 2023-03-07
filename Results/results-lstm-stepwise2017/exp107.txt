@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday Web_XSS 
+Flows targeted : FTPPatator 
+Number of Flows tested on : 544
+accuracy on original data after training : 0.6416666666666667
+accuracy on new attack before training : 0.9716666666666667
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.97

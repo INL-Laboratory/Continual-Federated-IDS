@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday attack_DDOS 
+Flows targeted : FTPPatator 
+Number of Flows tested on : 524
+accuracy on original data after training : 0.9716430358632193
+accuracy on new attack before training : 0.5325542570951586
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9749582637729549

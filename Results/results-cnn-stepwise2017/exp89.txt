@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday SSHPatator 
+Flows targeted : Web_BruteForce 
+Number of Flows tested on : 564
+accuracy on original data after training : 0.9716430358632193
+accuracy on new attack before training : 0.7957446808510639
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9659574468085106

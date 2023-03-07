@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_Hulk 
+Flows targeted : attack_portscan 
+Number of Flows tested on : 510
+accuracy on original data after training : 0.955
+accuracy on new attack before training : 0.9566666666666667
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.9583333333333334

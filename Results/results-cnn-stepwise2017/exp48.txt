@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_SlowLoris 
+Flows targeted : SSHPatator 
+Number of Flows tested on : 544
+accuracy on original data after training : 0.9808173477898249
+accuracy on new attack before training : 0.3121869782971619
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9732888146911519

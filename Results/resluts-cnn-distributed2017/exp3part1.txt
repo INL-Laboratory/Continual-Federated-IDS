@@ -1,0 +1,4 @@
+Initial Attack: Web_BruteForce
+accuracy on original data after training : 0.9668571428571429
+accuracy on new attack before training : 0.6469090909090909
+accuracy on new attack after training : 0.946

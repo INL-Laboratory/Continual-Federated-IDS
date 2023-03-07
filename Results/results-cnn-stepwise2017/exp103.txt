@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday Web_XSS 
+Flows targeted : DOS_SlowHttpTest 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.981651376146789
+accuracy on new attack before training : 0.3789649415692821
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9816360601001669

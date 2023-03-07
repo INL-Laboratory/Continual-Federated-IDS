@@ -1,0 +1,10 @@
+Type : binary
+Flows trained on : Benign_Friday_02 Benign_Friday_16 Benign_Thursday_01 Benign_Thursday_15 Benign_Thursday_22 Benign_Wednesday_14 Benign_Tuesday_20 DOS_GoldenEye 
+Flows targeted : FTPBruteForce 
+Number of Flows tested on : 1023
+accuracy on original data after training : 0.9021428571428571
+accuracy on new attack before training : 0.71375
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.91125
+best compression batch size : 16
+best compression learning rate : 0.001

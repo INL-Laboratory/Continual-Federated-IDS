@@ -1,0 +1,4 @@
+Initial Attack: DOS_SlowLoris
+accuracy on original data after training : 0.9833333333333333
+accuracy on new attack before training : 0.5064
+accuracy on new attack after training : 0.5848

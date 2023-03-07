@@ -1,0 +1,4 @@
+Initial Attack: attack_bot
+accuracy on original data after training : 0.8666666666666667
+accuracy on new attack before training : 0.6050909090909091
+accuracy on new attack after training : 0.6255172413793103

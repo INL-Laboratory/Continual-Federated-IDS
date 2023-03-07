@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : Benign_Friday_02 Benign_Friday_16 Benign_Thursday_01 Benign_Thursday_15 Benign_Thursday_22 Benign_Wednesday_14 Benign_Tuesday_20 DOS_GoldenEye 
+Flows targeted : DOS_SlowLoris 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.9891576313594662
+accuracy on new attack before training : 0.7146433041301627
+Number of nodes added to each layer :  10 10 10
+accuracy on new attack after training : 0.9461827284105131

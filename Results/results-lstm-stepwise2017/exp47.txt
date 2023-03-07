@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_SlowLoris 
+Flows targeted : FTPPatator 
+Number of Flows tested on : 524
+accuracy on original data after training : 0.8758333333333334
+accuracy on new attack before training : 0.9066666666666666
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.9133333333333333

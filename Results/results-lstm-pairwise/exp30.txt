@@ -1,0 +1,8 @@
+Type : binary
+Flows trained on : vectorize_friday/benign Benign_Wednesday DOS_SlowHttpTest 
+Flows targeted : attack_bot 
+Number of Flows tested on : 512
+accuracy on original data after training : 0.8683333333333333
+accuracy on new attack before training : 0.5078651685393258
+Number of nodes added to each layer :  10 10 10 10 10
+accuracy on new attack after training : 0.797752808988764

@@ -1,0 +1,4 @@
+Initial Attack: Web_XSS
+accuracy on original data after training : 0.9648571428571429
+accuracy on new attack before training : 0.5407272727272727
+accuracy on new attack after training : 0.9592
